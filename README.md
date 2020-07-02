@@ -15,6 +15,9 @@ Steps to set-up:
  6. Run server:
   python manage.py runserver
   
+If getting operationalerror run:
+    python manage.py migrate --run-syncdb
+    
  Environment variables:
 
 
