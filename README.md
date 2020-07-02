@@ -1,5 +1,5 @@
-# Django-Blog
-Blog created using Django and Bootstrap
+# Employee API
+Basic API for employee data.
 
 Steps to set-up:
  1. Clone this repo.
