@@ -16,4 +16,10 @@ Steps to set-up:
   python manage.py runserver
   
  Environment variables:
- Secret_key
+
+
+
+    |  VARIABLE NAME  	|  DESCRIPTION  |
+    |  DEBUG_VALUE      |  Debug value depending on dev or prod env |
+    |  SECRET_KEY		|  Secret Key for the Django Application |
+
